@@ -1,3 +1,13 @@
+# Intro to GitHub
+
+This repo is my hands-on learning journey with GitHub. It covers the basics of collaboration, branching, commits, pull requests, and merging—all through real GitHub workflows.
+
+---
+
+✅ Completed using [GitHub Skills](https://skills.github.com/)  
+🧠 Exploring GitHub to better understand dev tools + secure software workflows  
+🚀 Username: [@JayDavis-dev](https://github.com/JayDavis-dev)
+
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
 ⭐️ Congratulations JayDay1993! ⭐️

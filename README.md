@@ -10,7 +10,7 @@ This repo is my hands-on learning journey with GitHub. It covers the basics of c
 
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
-⭐️ Congratulations JayDay1993! ⭐️
+⭐️ Congratulations JayDavis-dev! ⭐️
 
 You completed this exercise! Nice work! 🥳
 
